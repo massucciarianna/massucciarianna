@@ -88,7 +88,7 @@
 
   /* --- Evidenzia la sezione attiva nel menu --- */
   var sections = Array.prototype.slice.call(
-    document.querySelectorAll('#chi-sono, #percorso, #servizi, #modalita, #contatti')
+    document.querySelectorAll('#chi-sono, #percorso, #servizi, #contatti')
   );
   var links = {};
   document.querySelectorAll('.nav a[href^="#"]').forEach(function (a) {
