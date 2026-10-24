@@ -7,7 +7,7 @@ Sito one-page statico (HTML/CSS/JS, nessuna dipendenza da build).
 
 ## Struttura
 - `index.html` — tutte le sezioni: hero, citazione, chi sono, curriculum (tab), servizi, CTA, footer
-- `style.css` — palette violetta chiara ripresa dal logo (`#B094BA`)
+- `style.css` — palette blu-lavanda basata su `#979FE5`
 - `script.js` — menu mobile, tab del curriculum, animazioni on-scroll, evidenziazione sezione attiva
 - `privacy.html`, `cookie-policy.html`, `termini.html` — pagine legali
 - `assets/fonts/` — DM Sans e Fraunces self-hosted, con le licenze OFL (non rimuoverle)
